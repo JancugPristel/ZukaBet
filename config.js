@@ -1,20 +1,20 @@
 //=============『 Utama 』================== //
-global.owner = ['6282138919347'] 
-global.mods = [] 
+global.owner = ['6282138729360'] 
+global.mods = [081574673521] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Helga Zexs'
-global.numberowner = '6282138919347'
-global.instagram = 'https://instagram.com/helga_store20'
+global.nameowner = 'Dreki'
+global.numberowner = '6282138729360'
+global.instagram = 'https://instagram.com/JancugPristel'
 global.github = 'https://github.com/Hyzerr'
-global.dana = '081398860278'
-global.pulsa = '082138919347'
-global.gopay = '081398860278'
+global.dana = '082322980618'
+global.pulsa = '082322980618'
+global.gopay = '082322980618'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/BxrDMvfLeKTHtvAWKHWZbZ'
+global.namebot = '⫹⫺ DrekiBot-Md'
+global.gc = 'https://chat.whatsapp.com/IIx5xSuXcRTDJnppJ5uJtz'
 global.web = 'https://www.helgastoree.xyz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
@@ -26,7 +26,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Zuka Beta'
 global.watermark = wm
 global.wm2 = '                     「 Zuka Beta あ⁩ 」'
-global.wm3 = '⫹⫺ Zuka Beta'
+global.wm3 = '⫹⫺ Dreki Beta'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Helga Zexs'
+global.author = '© Drekk-Mdོ''
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
